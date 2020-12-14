@@ -58,7 +58,7 @@
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 ![Vim](https://img.shields.io/badge/vim-019733?style=flat-square&logo=vim&logoColor=ffffff)
 ![AdobeXD](https://img.shields.io/badge/adobexd-FF26BE?style=flat-square&logo=adobe-xd&logoColor=ffffff)
-
+![webpack](https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff)
 
 [website]: https://hectorsum.github.io
 [linkedin]: https://www.linkedin.com/in/hector-herrera-cusi/
