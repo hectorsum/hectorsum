@@ -54,7 +54,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
-![Python](https://img.shields.io/badge/python-yellow?style=flat-square&logo=python&logoColor=000000)
+`![Python](https://img.shields.io/badge/python-yellow?style=flat-square&logo=python&logoColor=000000)`
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 ![Vim](https://img.shields.io/badge/vim-019733?style=flat-square&logo=vim&logoColor=ffffff)
 ![AdobeXD](https://img.shields.io/badge/adobexd-FF26BE?style=flat-square&logo=adobe-xd&logoColor=ffffff)
