@@ -1,4 +1,4 @@
-<h1 align="center">Hey! :wave:, I'm Hector Herrera, Software Developer</h1>
+<h1 align="center">Hey! :wave:, I'm Hector Herrera, Web Developer</h1>
 <h3 align="center">I'm a final year student persuing my Bachelor's degree in Computer Systems Engineering at Northern Private University :mortar_board:. I'm fully passionate of learning new technologies and develop new skills related to programming :sparkler: </h3>
 
 ---
