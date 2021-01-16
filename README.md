@@ -60,6 +60,6 @@
 ![AdobeXD](https://img.shields.io/badge/adobexd-FF26BE?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 ![webpack](https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff)
 
-[website]: https://hectorsum.github.io
+[website]: https://hector-herrera.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/hector-herrera-cusi/
 [Spotify]: https://open.spotify.com/user/12167782642
