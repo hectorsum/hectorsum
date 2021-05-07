@@ -5,7 +5,7 @@
 
 <img align="right" alt="doggy" height="150px" src="./images/doggy.jpg" />
 
-- 😄 Pronouns: **[ he / him ]**
+- 😄 Pronouns: **[ he / him ]** 
 - 🌱 Currently working on web development technologies such as Javascript, React, SASS, etc.
 - :books: Currently learning MERN Stack development.
 - :muscle: Future goals: Never stop learning.
