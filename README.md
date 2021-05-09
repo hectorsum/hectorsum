@@ -3,7 +3,7 @@
 
 --- 
 
-<img align="right" alt="doggy" height="150px" src="./images/doggy.jpg" />
+<img align="right" alt="doggy" height="150px" src="./images/doggy.jpg" /> 
 
 - 😄 Pronouns: **[ he / him ]** 
 - 🌱 Currently working on web development technologies such as Javascript, React, SASS, etc.
