@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: **[ he / him ]** 
 - 🌱 Currently working on web development technologies such as Javascript, React, SASS, etc.
-- :books: Currently learning MERN Stack development.
+- :books: Currently learning DevOps stuff.
 - :muscle: Future goals: Never stop learning.
 - ⚡ Fun fact: Said I was never going to learn web development lmao
 
@@ -59,6 +59,7 @@
 ![Vim](https://img.shields.io/badge/vim-019733?style=flat-square&logo=vim&logoColor=ffffff)
 ![AdobeXD](https://img.shields.io/badge/adobexd-FF26BE?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 ![webpack](https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff)
+![dogker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
 [website]: https://hector-herrera.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/hector-herrera-cusi/
