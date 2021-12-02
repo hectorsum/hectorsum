@@ -21,7 +21,7 @@
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hectorsum&repo=DIARS-Restaurant&countColorcountColor&countColor=%237B1E7B"/>
-
+<!--
 ### Get in touch 📝
 
 [<img align="left" alt="www.walla.co.il" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
@@ -29,7 +29,7 @@
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br/>
-
+-->
 --- 
 
 ### Languages and Tools 🛠 
