@@ -6,8 +6,8 @@
 <img align="right" alt="doggy" height="150px" src="./images/doggy.jpg" /> 
 
 - 😄 Pronouns: **[ he / him ]** 
-- 🌱 Currently working on web development technologies such as Javascript, React, SASS, etc.
-- :books: Currently learning DevOps stuff.
+- 🌱 Currently working on web development technologies such as React, Redux, Chakra UI, NodeJS, MongoDB, PL SQL, etc.
+- :books: Currently working on web-based React Applications.
 - :muscle: Future goals: Never stop learning.
 - ⚡ Fun fact: Said I was never going to learn web development lmao
 
