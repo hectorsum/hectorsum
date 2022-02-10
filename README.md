@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="doggy" height="150px" src="./images/doggy.jpg" /> 
+<img align="right" alt="doggy" height="150px" src="./images/Developer.gif" /> 
 
 - 😄 Pronouns: **[ he / him ]** 
 - 🌱 Currently working on web development technologies such as React, Redux, Chakra UI, NodeJS, MongoDB, PL SQL, etc.
