@@ -1,26 +1,31 @@
-<h1 align="center">Hey! :wave:, I'm Hector Herrera, FullStack Developer</h1>
-<h3 align="center">I'm a Computer Systems Engineering Bachelors at Northern Private University :mortar_board:. I'm fully passionate of learning new technologies and develop new skills related to programming :sparkler: </h3>
-
----
-
+<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align="right" alt="doggy" height="150px" src="./images/Developer.gif" /> 
 
-- 😄 Pronouns: **[ he / him ]** 
-- 🌱 Currently working on web development technologies such as React, Redux, Chakra UI, NodeJS, MongoDB, PL SQL, etc.
-- :books: Currently working on web-based React Applications.
-- :muscle: Future goals: Never stop learning.
-- ⚡ Fun fact: Said I was never going to learn web development lmao
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/hectorsum) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/hector-herrera-cusi/) 
+[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumhector@gmail.com)
+ 
+I'm a Full Stack Professional and Computer Systems Engineering Bachelors at <a href="https://www.upn.edu.pe/">Northen Private University</a> :mortar_board:. I'm currently providing web-based solutions to Fulltimeforce as well as providing software maintenance to US clients based. I have been working on web-based apps for over 2 years of exp. I'm fully self-taught developer and passionate about learning new skills regarding Full Stack Development and AI.
+ 
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, CSS, SASS, JavaScript (React)**
+- Database using **MongoDB, MySQL, MS SQL Server, PL SQL**
+- Backend development using **Node, Python, PHP**
+- Mobile development using **Android**
+- Creating big and small projects using **React/Typescript, Redux, MongoDB, NodeJS**
+- Making for **Relational Database Management Systems**
+- Robust full-stack system design implementation
+- Solving Data structure and algorithm questions in **Javascript and Python**
+- Tools and technologies using **Figma, Git, Postman, Docker**
 
 --- 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+## 📈 Github Stats
 
-### Spotify Playing 🎧 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12167782642) 
+<a href="https://github.com/Furkan-Gulsen/Furkan-Gulsen">
+ <img alt="Furkan-Gulsen's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hectorsum&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
 
-
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hectorsum&repo=DIARS-Restaurant&countColorcountColor&countColor=%237B1E7B"/>
+<!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hectorsum&repo=DIARS-Restaurant&countColorcountColor&countColor=%237B1E7B"/> -->
 <!--
 ### Get in touch 📝
 
@@ -32,7 +37,7 @@
 -->
 --- 
 
-### Languages and Tools 🛠 
+<!-- ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -63,4 +68,4 @@
 
 [website]: https://hector-herrera.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/hector-herrera-cusi/
-[Spotify]: https://open.spotify.com/user/12167782642
+[Spotify]: https://open.spotify.com/user/12167782642 -->
