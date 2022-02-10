@@ -10,7 +10,7 @@ I'm a Full Stack Professional and Computer Systems Engineering Bachelors at <a h
 Talk to me about
 - Front-end development using **HTML, CSS, SASS, JavaScript (React)**
 - Database using **MongoDB, MySQL, MS SQL Server, PL SQL**
-- Backend development using **Node, Python, PHP**
+- Backend development using **NodeJS, Python, PHP**
 - Mobile development using **Android**
 - Creating big and small projects using **React/Typescript, Redux, MongoDB, NodeJS**
 - Making for **Relational Database Management Systems**
