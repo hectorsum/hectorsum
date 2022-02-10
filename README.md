@@ -18,7 +18,6 @@ Talk to me about
 - Solving Data structure and algorithm questions in **Javascript and Python**
 - Tools and technologies using **Figma, Git, Postman, Docker**
 
---- 
 ## 📈 Github Stats
 
 <a href="https://github.com/Furkan-Gulsen/Furkan-Gulsen">
