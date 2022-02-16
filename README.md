@@ -16,7 +16,7 @@ Talk to me about
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
 - Solving Data structure and algorithm questions in **Javascript and Python**
-- Tools and technologies using **Figma, Git, Postman, Docker**
+- Tools and technologies using **Figma, Git, Postman, Docker, Docker Compose**
 
 ## 📈 Github Stats
 
