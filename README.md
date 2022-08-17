@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/hectorsum) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/hector-herrera-cusi/) 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumhector@gmail.com)
  
-I'm a Full Stack Professional and Computer Systems Engineering Bachelors at <a href="https://www.upn.edu.pe/">Northen Private University</a> :mortar_board:. I'm currently providing web-based solutions to Fulltimeforce as well as providing software maintenance to US clients based. I have been working on web-based apps for over 2 years. I'm fully self-taught developer and passionate about learning new skills regarding Full Stack Development and AI.
+I'm a Full Stack Professional and Computer Systems Engineering Bachelors at <a href="https://www.upn.edu.pe/">Northen Private University</a> :mortar_board:. I have been working on web-based apps for over 2 years. I'm fully self-taught developer and passionate about learning new skills regarding Full Stack Development and AI.
  
 ## ⚡ Technologies
 Talk to me about
