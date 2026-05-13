@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/hectorsum) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/hector-herrera-cusi/) 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumhector@gmail.com)
  
-I'm a Full Stack Professional and Computer Systems Engineering Bachelors at <a href="https://www.upn.edu.pe/">Northen Private University</a> :mortar_board:. I have been working on web-based apps for over 2 years. I'm fully self-taught developer and passionate about learning new skills regarding Full Stack Development and AI.
+Full Stack Developer with 5+ years building and scaling enterprise web applications using React, TypeScript, Node.js, and PostgreSQL. I architected a revenue-critical booking platform serving 50+ international hotel clients with 99.2% uptime and delivered 35% performance improvements through optimization and modern tooling. Recently contributed to LLM training pipelines evaluating AI models for code quality. I combine technical depth with mentorship—guiding developers to senior proficiency while reducing technical debt and shipping quality at scale.
  
 ## ⚡ Technologies
 Talk to me about
