@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/hectorsum) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/hector-herrera-cusi/) 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumhector@gmail.com)
  
-Full Stack Developer with 5+ years building and scaling enterprise web applications using React, TypeScript, Node.js, and PostgreSQL. I architected a revenue-critical booking platform serving 50+ international hotel clients with 99.2% uptime and delivered 35% performance improvements through optimization and modern tooling. Recently contributed to LLM training pipelines evaluating AI models for code quality. I combine technical depth with mentorship—guiding developers to senior proficiency while reducing technical debt and shipping quality at scale.
+Desarrollador Frontend especializado con 5+ años construyendo interfaces web modernas y escalables usando React, TypeScript y Next.js. Experimentado en implementar diseños pixel-perfect, optimizar performance, y crear experiencias de usuario responsivas para plataformas de alto tráfico. Historial comprobado acelerando velocidad de desarrollo mediante librerías de componentes reutilizables (reducción de 30% en tiempo de desarrollo), mejorando Core Web Vitals, y colaborando estrechamente con equipos de diseño y backend. Sólida experiencia en arquitectura frontend, state management, y metodologías ágiles. Apasionado por código limpio, accesibilidad web, y crear soluciones frontend que impacten directamente en la experiencia del usuario.
  
 ## ⚡ Technologies
 Talk to me about
